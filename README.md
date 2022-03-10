@@ -10,7 +10,7 @@ build the store:
   script: 
     - mkdir build
     - cd build
-    - touch car.txt
+    - touch store.txt
     - echo "frontend" > store.txt
     - echo "shelves" > store.txt
     - echo "money" > store.txt
